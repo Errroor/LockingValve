@@ -1,0 +1,4 @@
+.work/
+~$*.docx
+__pycache__/
+*.pyc

@@ -1,0 +1,38 @@
+name: Функциональный раздел
+description: Функциональный раздел проекта LockingValve
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Назначение и пользовательская ценность
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Требования входы выходы и единицы
+    validations:
+      required: true
+  - type: textarea
+    id: scenarios
+    attributes:
+      label: Основной сценарий альтернативы и ошибки
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Критерии приемки и проверки
+    validations:
+      required: true
+  - type: textarea
+    id: planning
+    attributes:
+      label: Родитель приоритет выпуск оценка спринт и зависимости
+      description: Установите также нативную родительскую связь и поля Project. Форма не переносит значения в Project автоматически.
+    validations:
+      required: true
+  - type: textarea
+    id: questions
+    attributes:
+      label: Вопросы для уточнения и ограничения
