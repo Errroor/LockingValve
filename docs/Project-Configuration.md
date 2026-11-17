@@ -1,6 +1,6 @@
 # Конфигурация проекта GitHub
 
-[Проект](https://github.com/users/Errroor/projects/1) связан с приватным репозиторием [LockingValve](https://github.com/Errroor/LockingValve). Приватность сохранена. База знаний размещается в каталоге docs вместо отдельной Wiki.
+[Проект](https://github.com/users/Errroor/projects/1) связан с публичным репозиторием [LockingValve](https://github.com/Errroor/LockingValve). Репозиторий и доска открыты для просмотра 17 ноября 2026 года. Изменять материалы могут только участники с соответствующими правами. База знаний размещается в каталоге docs вместо отдельной Wiki.
 
 ## Поля
 Title, Assignees, Status, Приоритет (P0, P1, P2), Оценка сложности (число), Спринт (Iteration), Выпуск (MVP, Версия 1.0, Версия 2.0), Parent issue, Sub-issues progress. Системное поле Status сохраняет название. Отдельное поле Size шаблона не используется для оценки; итоговая оценка ведется только в числовом поле.
